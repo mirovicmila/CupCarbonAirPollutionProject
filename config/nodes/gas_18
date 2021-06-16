@@ -1,0 +1,11 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:18
+device_longitude:21.888198852539062
+device_latitude:43.33666543652568
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+device_gps_file_name:route4.gps
+natural_event_file_name:pollutionnew4.evt
