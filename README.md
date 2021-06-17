@@ -1,4 +1,5 @@
-# CupCarbonAirPollutionProject
+# <img src="http://www.cupcarbon.com/img/cupcarbon_basic.png" width=10% height=10%> CupCarbonAirPollutionProject 
+
 Simulacja WSN sistema za monitoring zagađenja vazduha u urbanoj sredini pomoću CupCarbon okruženja.
 
 ## Instalacija i pokretanje
