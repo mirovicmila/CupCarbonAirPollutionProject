@@ -1,5 +1,5 @@
 # CupCarbonAirPollutionProject
-Simulacja WSN sistema za monitoring zagadjenja vazduha u urbanoj sredini pomoću CupCarbon okruženja.
+Simulacja WSN sistema za monitoring zagađenja vazduha u urbanoj sredini pomoću CupCarbon okruženja.
 
 ## Instalacija i pokretanje
 
